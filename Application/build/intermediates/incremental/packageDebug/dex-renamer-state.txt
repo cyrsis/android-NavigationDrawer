@@ -1,0 +1,7 @@
+#Wed Sep 28 01:53:10 CST 2016
+base.0=H\:\\@Dev\\android-NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b25377c0e2d5e47678bdb059001c1d894334509c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\@Dev\\android-NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2516541856479f183bf5e8153510dfa2728d68ff\\classes.dex
+base.1=H\:\\@Dev\\android-NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2516541856479f183bf5e8153510dfa2728d68ff
+file.0=H\:\\@Dev\\android-NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b25377c0e2d5e47678bdb059001c1d894334509c\\classes.dex
